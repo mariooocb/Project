@@ -1,3 +1,3 @@
-# Project
-This is the project for which I have been working for about 8 months being as realistic as possible, I had the honor of being the leader of this project, it was not easy but everything with effort and dedication can be done. 
-Ecommerce FlashPollos
+# FlashPollos
+
+The objective of this training project was to implement an e-commerce for a chicken distributor, working for 8 months, applying everything we learned during our stay at SENA! Our next step being in the productive stage is to implement/create an API for our e-commerce all this using the JAVA programming language.
